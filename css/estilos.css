@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+   
+   
+}
+
+.contenedor{
+    background-color: #333333;
+}
+
+.r{
+    
+    border-radius: 50%;
+    
+    padding: 12px 12px ;
+    
+}
